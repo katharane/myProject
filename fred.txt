@@ -1,1 +1,2 @@
 fred
+I love git tutorial
